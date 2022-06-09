@@ -1,0 +1,5 @@
+.leftSection {
+  background-color: aliceblue;
+
+  grid-column: 1/2;
+}
